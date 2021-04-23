@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/seguro-vehicular/static/css/main.731a0447.chunk.css",
-    "main.js": "/seguro-vehicular/static/js/main.539ce7e2.chunk.js",
-    "main.js.map": "/seguro-vehicular/static/js/main.539ce7e2.chunk.js.map",
+    "main.js": "/seguro-vehicular/static/js/main.c9622e6e.chunk.js",
+    "main.js.map": "/seguro-vehicular/static/js/main.c9622e6e.chunk.js.map",
     "runtime-main.js": "/seguro-vehicular/static/js/runtime-main.e106c1f4.js",
     "runtime-main.js.map": "/seguro-vehicular/static/js/runtime-main.e106c1f4.js.map",
     "static/css/2.34f7852f.chunk.css": "/seguro-vehicular/static/css/2.34f7852f.chunk.css",
-    "static/js/2.11d7eba5.chunk.js": "/seguro-vehicular/static/js/2.11d7eba5.chunk.js",
-    "static/js/2.11d7eba5.chunk.js.map": "/seguro-vehicular/static/js/2.11d7eba5.chunk.js.map",
+    "static/js/2.879934d5.chunk.js": "/seguro-vehicular/static/js/2.879934d5.chunk.js",
+    "static/js/2.879934d5.chunk.js.map": "/seguro-vehicular/static/js/2.879934d5.chunk.js.map",
     "static/js/3.c8e3d05b.chunk.js": "/seguro-vehicular/static/js/3.c8e3d05b.chunk.js",
     "static/js/3.c8e3d05b.chunk.js.map": "/seguro-vehicular/static/js/3.c8e3d05b.chunk.js.map",
     "index.html": "/seguro-vehicular/index.html",
     "static/css/2.34f7852f.chunk.css.map": "/seguro-vehicular/static/css/2.34f7852f.chunk.css.map",
     "static/css/main.731a0447.chunk.css.map": "/seguro-vehicular/static/css/main.731a0447.chunk.css.map",
-    "static/js/2.11d7eba5.chunk.js.LICENSE.txt": "/seguro-vehicular/static/js/2.11d7eba5.chunk.js.LICENSE.txt",
+    "static/js/2.879934d5.chunk.js.LICENSE.txt": "/seguro-vehicular/static/js/2.879934d5.chunk.js.LICENSE.txt",
     "static/media/all.css": "/seguro-vehicular/static/media/fa-solid-900.efbd5d20.eot",
     "static/media/Login.scss": "/seguro-vehicular/static/media/fondo-edificio.2cf5696b.png",
     "static/media/gracias-img.png": "/seguro-vehicular/static/media/gracias-img.85854bb6.png",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.e106c1f4.js",
     "static/css/2.34f7852f.chunk.css",
-    "static/js/2.11d7eba5.chunk.js",
+    "static/js/2.879934d5.chunk.js",
     "static/css/main.731a0447.chunk.css",
-    "static/js/main.539ce7e2.chunk.js"
+    "static/js/main.c9622e6e.chunk.js"
   ]
 }
