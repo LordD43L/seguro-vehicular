@@ -1,0 +1,44 @@
+.hola{
+    font-size: 40px;
+}
+
+.hola span{
+    color: #EF3340;
+}
+
+.info-1{
+    color: #676F8F;
+    font-size: 16px;
+}
+
+.datos-auto{
+    padding: 52px 64px 0 96px;
+}
+
+@media only screen and (max-width: 768px) {
+    .datos-auto{
+        padding: 10px 30px;
+    }
+}
+
+.radio input{
+    margin-left: 20px;
+}
+.radio label{
+    padding-left: 5px;
+}
+
+
+.label-suma{
+    color: #494F66;
+    font-size: 16px;
+}
+
+.label-min-max{
+    color: #676F8F;
+    font-size: 12px;
+}
+
+.label-min-max .max{
+padding-left: 25px;
+}

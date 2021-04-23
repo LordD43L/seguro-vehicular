@@ -1,0 +1,54 @@
+.portada{
+    background-image: url('../../../assets/fondo-edificio.png');
+    background-size: cover;
+    height: calc(100vh);
+    margin-top: -72.8px;
+    z-index: 2;
+    color: #494F66;
+}
+
+.portada-img{
+    margin-top: 185px;
+    margin-left: 300px;
+}
+
+.label{
+    font-size: 12px;
+}
+
+.titulo{
+    font-size: 36px;
+}
+
+.titulo span{
+    color: #EF3340;
+}
+
+.glosa{
+    font-size: 14px;
+}
+
+.frm-cotiza{
+    margin-top: 75px;
+}
+
+.titulo-datos{
+    font-size: 28px;
+    color: #494F66;
+}
+
+@media only screen and (max-width: 768px) {
+    .portada-m .info{
+        padding: 30px 0 20px 20px;
+    }
+    .portada-m .titulo{
+        font-size: 28px;
+    }
+    .portada-m-img{
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .frm-cotiza{
+        margin-top: 20px;
+    }
+}

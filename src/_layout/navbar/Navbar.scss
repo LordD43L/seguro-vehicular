@@ -1,0 +1,29 @@
+@import '../../App.scss';
+
+.navbar{
+    z-index: 999
+}
+
+.navbar{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: $appAcian;
+}
+
+.navbar .duda{
+    font-size: 12px;
+}
+
+.navbar span{
+    cursor: pointer;
+}
+
+.navbar-padding{
+    padding: 18px 35px !important;
+}
+
+@media only screen and (min-width: 768px) {
+    .navbar-padding{
+        padding: 18px 150px !important;
+    }
+}

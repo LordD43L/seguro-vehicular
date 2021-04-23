@@ -1,0 +1,25 @@
+.form-group{
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+.form-control{
+    border: 1.01px solid #C5CBE0 !important;
+    border-radius: 4.01px !important;
+    font-size: 16px !important;
+    height: 56px !important;
+    padding: 16px !important;
+    color: #494F66 !important;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #A3ABCC !important;
+  }
+  
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+color: #A3ABCC !important;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+color: #A3ABCC !important;
+}
